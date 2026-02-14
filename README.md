@@ -1,0 +1,1 @@
+To jest projekt do nauki GitHub
